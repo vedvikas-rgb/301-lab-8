@@ -11,7 +11,7 @@ public class City {
 
     public String getCityName(){
         return this.city;
-    }
+    } //test comment
 
     public String getProvinceName(){
         return this.province;
